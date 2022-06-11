@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+  background-color: #2c2b2b;
+  padding: 60px;
+}
+.links {
+  justify-content: space-around;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #14ab67;
+}
+
+.footer p {
+  color:#6B6C6C;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.fa-brands {
+  line-height: 1;
+}
